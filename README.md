@@ -1,4 +1,3 @@
-# Student-management-mongodb
 # 📚 Student Management System (MongoDB)
 
 A simple and clean **Student Management System** built using **MongoDB**.  
